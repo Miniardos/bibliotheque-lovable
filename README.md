@@ -173,7 +173,51 @@ Permettre de gérer :
 ### Objectif final
 Permettre à l’équipe municipale de gérer facilement les contenus via un espace admin simple et compréhensible.
 
+---
 
+## Prompt 3 – Amélioration hero + connexion admin
+
+### Objectif
+Améliorer la section hero de la page d’accueil et la connecter à l’espace administrateur.
+
+---
+
+### Modifications demandées
+
+#### Homepage (public)
+- Créer une section hero en haut de la page d’accueil
+- Ajouter un grand titre (éditable)
+- Ajouter un texte éditorial court (type message du maire)
+- Ajouter une image ou illustration de fond
+- Ajouter 1 ou 2 boutons d’action (ex : Voir les actualités, Entraide)
+
+---
+
+#### Admin side
+- Ajouter une section dans le dashboard admin pour gérer le hero
+- Permettre de modifier :
+  - le titre du hero
+  - le texte du hero
+  - l’image de fond
+- Utiliser des champs de formulaire simples
+- Les modifications doivent être visibles immédiatement sur la page d’accueil
+
+---
+
+### Design
+- Interface propre, chaleureuse et adaptée à un site municipal
+- Bonne lisibilité (ajouter un overlay si nécessaire sur l’image)
+
+---
+
+### Contraintes
+- Rester simple et facile à utiliser
+- Pas de logique complexe
+
+---
+
+### Objectif final
+Permettre à la mairie de modifier facilement le contenu de la page d’accueil sans compétence technique.
 
 
 
