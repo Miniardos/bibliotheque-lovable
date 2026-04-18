@@ -108,3 +108,77 @@ Tout en favorisant le vivre ensemble et les échanges entre habitants.
 ### Critères de succès
 - L’application est simple à comprendre
 - L’application est facile à utiliser
+
+
+---
+
+
+## Prompt 2 – Ajout espace administration
+
+### Objectif
+Ajouter un espace d’administration sécurisé pour l’équipe de la mairie, distinct du site public.
+
+---
+
+### Fonctionnalités attendues
+- Créer une page de connexion administrateur
+- Accès sécurisé avec identifiant et mot de passe
+- Connexion de plusieurs administrateurs
+- Bouton de déconnexion visible
+
+---
+
+### Structure de l’espace d’administration
+
+#### Page de connexion
+- Champ identifiant
+- Champ mot de passe
+- Bouton de connexion
+- Message d’erreur simple si incorrect
+
+#### Tableau de bord administrateur
+Permettre de gérer :
+- les actualités
+- les événements
+- les informations pratiques
+
+---
+
+### Gestion des contenus
+- Ajouter, modifier, supprimer
+- Formulaires simples avec :
+  - titre
+  - description
+  - date
+  - lieu
+  - catégorie (si besoin)
+
+---
+
+### Expérience utilisateur
+- Interface claire et rassurante
+- Adaptée à des non-techniciens
+- Cohérence visuelle avec le site public
+- Navigation simple
+
+---
+
+### Contraintes
+- Logique simple et réaliste
+- Pas de rôles complexes
+- Pas de sur-ingénierie
+
+---
+
+### Objectif final
+Permettre à l’équipe municipale de gérer facilement les contenus via un espace admin simple et compréhensible.
+
+
+
+
+
+
+
+
+
+
